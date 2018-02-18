@@ -1,3 +1,0 @@
-# Concept
-
-Pluggable storage
